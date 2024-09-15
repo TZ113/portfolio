@@ -125,8 +125,7 @@ bundle install
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-
-* Run and develop locally with live server at `http://localhost:4000`, this will also build production-ready `JS` and `SCSS` assets with every change
+* Execute `bundle exec jekyll serve` and Run and develop locally with live server at `http://localhost:4000`, this will also build production-ready `JS` and `SCSS` assets with every change
 
 ```sh
 gulp

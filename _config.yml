@@ -23,7 +23,7 @@ email: toufiqueziad@gmail.com
 github_username: TZ113
 codepen_username: TZ113
 dev_username: tou_zi_883d841242afdf8ed6
-linkedin_username: toufique-ziad
+linkedin_username: toufique-ziad-3489aa255
 twitter_username: TZ5551863873584
 
 
@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Hello! My name is Toufique Ziad, and I am a software developer from Bangladesh. I specialize in Python programming and Python based Web Dev framework Django. I am also good with JavaScript, HTML, CSS3, so that I can bring the full stack of Web Development, but back-end is where I get really comfortable. My skill set also includes PHP, WordPress, React.JS, Relational Database Systems like SQLite, PostgreSQL, mySQL and noSQL database MongoDB. I am also familiar with C, Node.js, Flask etc. I am skilled at utilizing various technologies for my projects. And I always try to write clean, readable, secure code and maintain best practices and conventions. Thank you!
 
 # SKILLS SECTION
 # show_skills_card:
@@ -54,7 +54,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://docs.google.com/document/d/1DQOSq_LWWru5C16-kxn133TQCjmFTW4F/edit?usp=sharing&ouid=112828624893542084803&rtpof=true&sd=true
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -70,7 +70,7 @@ projects_title: Projects
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: true
+show_os_projects: false
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -82,7 +82,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: I am available 24/7. You can contact me at this number +8801635602519, or use any of the social links.
 
 # GITHUB-METADATA
 # Set this to your forked repository
