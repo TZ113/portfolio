@@ -24,8 +24,7 @@ github_username: TZ113
 codepen_username: TZ113
 dev_username: tou_zi_883d841242afdf8ed6
 linkedin_username: toufique-ziad-3489aa255
-twitter_username: 
-
+twitter_username:
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -54,7 +53,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://docs.google.com/document/d/1DQOSq_LWWru5C16-kxn133TQCjmFTW4F/edit?usp=sharing&ouid=112828624893542084803&rtpof=true&sd=true
+cv_download_link: https://drive.google.com/file/d/1H4cPA7eb1KyWQlOmR-L3nZrv0i7oYuWD/view?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
